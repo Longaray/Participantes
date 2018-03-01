@@ -12,10 +12,10 @@ Com a solução aberta no Visual Studio, clique com o botão direito na soluçã
 Após o término da solução aperte F5 executar o programa.
 
 Utilização:
-  Cadastro/Update:
+  * Cadastro/Update:
     Preencha os campos com as informações requiridas. Logo após clique em "Cadastro". 
     Isso irá gerar uma entrada na Grid do programa. Caso uma nova entrada possuia mesma entrada para COD_PART ("0150"+ CPF/CNPJ)
     o restante dos campos será atualizado.
     
-  Exclusão:
+  * Exclusão:
     Selecione uma linha da grid ou um campo de uma linha que deseja excluir, em seguida clique em "Excluir". 
