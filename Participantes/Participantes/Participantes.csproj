@@ -71,6 +71,7 @@
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
     <Compile Include="Banco\SpeedDB.cs" />
+    <Compile Include="Controles\ParticipantesController.cs" />
     <Compile Include="FrmCadastro.cs">
       <SubType>Form</SubType>
     </Compile>
